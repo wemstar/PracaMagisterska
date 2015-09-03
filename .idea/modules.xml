@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PracaMagisterska.iml" filepath="$PROJECT_DIR$/PracaMagisterska.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracaMagisterskaAndroid/PracaMagisterskaAndroid.iml" filepath="$PROJECT_DIR$/PracaMagisterskaAndroid/PracaMagisterskaAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracaMagisterskaAndroid/PracaMagisterskaAndroid/PracaMagisterskaAndroid-PracaMagisterskaAndroid.iml" filepath="$PROJECT_DIR$/PracaMagisterskaAndroid/PracaMagisterskaAndroid/PracaMagisterskaAndroid-PracaMagisterskaAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracaMagisterskaDTO/PracaMagisterskaDTO.iml" filepath="$PROJECT_DIR$/PracaMagisterskaDTO/PracaMagisterskaDTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracaMagisterskaWeb/PracaMagisterskaWeb.iml" filepath="$PROJECT_DIR$/PracaMagisterskaWeb/PracaMagisterskaWeb.iml" />
+    </modules>
+  </component>
+</project>
