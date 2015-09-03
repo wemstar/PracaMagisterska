@@ -4,3 +4,6 @@
 [submodule "PracaMagisterskaWeb"]
 	path = PracaMagisterskaWeb
 	url = https://github.com/wemstar/PracaMagisterskaWeb.git
+[submodule "PracaMagisterskaAndroid"]
+	path = PracaMagisterskaAndroid
+	url = https://github.com/wemstar/PracaMagisterskaAndroid.git
