@@ -2,16 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PracaMagisterskaAndroid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PracaMagisterskaDTO" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PracaMagisterskaDTO" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PracaMagisterskaDTO" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PracaMagisterskaDTO" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PracaMagisterskaWeb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PracaMagisterskaWeb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PracaMagisterskaWeb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PracaMagisterskaWeb" vcs="Git" />
   </component>
 </project>
