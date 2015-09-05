@@ -1,3 +1,3 @@
-rootProject.name = 'pl.edu.agh.fis.macura'
 rootProject.name = 'PracaMagisterska'
+include ''
 
